@@ -3,11 +3,12 @@ import { Title } from "@radix-ui/react-dialog";
 // for page navigation & to sort on leftbar
 export const ROUTES = [
   {
-    title: "NLPDFR Uitgelegd",
-    href: "NLPDFR-Uitgelegd",
+    title: "Start",
+    href: "start",
     items: [
       { title: "Introductie", href: "/introduction" },
-      { title: "Regels", href:"/regels"}
+      { title: "Regels", href:"/regels"},
+      { title: "Updates", href:"/changelog"}
     ],
   },
   {
