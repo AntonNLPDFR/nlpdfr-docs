@@ -28,7 +28,7 @@ export default function Home() {
             size: "lg",
           })}
         >
-          Terug naar NLPDFR.nl
+          🔙  Terug naar NLPDFR.nl
         </Link>
       </div>
       {/* <span className="flex flex-row items-center gap-2 text-zinc-400 text-md mt-7 -mb-12 max-[800px]:mb-12">

@@ -25,6 +25,8 @@ export function Footer() {
             >
               Creative Crows
             </Link>- Alle rechten voorbehouden.
+            <br></br>
+            Deze website / handboek word onderhouden door{""} <Link className="px-1 underline underline-offset-2" href="https://github.com/AntonNLPDFR">Anton</Link>. 
             {/* Build by{" "}
             <Link
               className="px-1 underline underline-offset-2"
