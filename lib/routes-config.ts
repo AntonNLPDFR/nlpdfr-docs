@@ -7,6 +7,7 @@ export const ROUTES = [
     href: "NLPDFR-Uitgelegd",
     items: [
       { title: "Introductie", href: "/introduction" },
+      { title: "Regels", href:"/regels"}
     ],
   },
   {
