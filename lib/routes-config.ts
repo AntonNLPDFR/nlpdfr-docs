@@ -26,7 +26,7 @@ export const ROUTES = [
   },
   {
     title: "Simpele Problemen",
-    href: "tutorials",
+    href: "problemen",
     items: [
       { title: "Discord verbinden met FiveM", href: "/verbind-discord" },
       { title: "Geen in-game Appstore", href: "/geen-appstore"}
