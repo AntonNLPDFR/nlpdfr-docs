@@ -12,6 +12,13 @@ export const ROUTES = [
     ],
   },
   {
+    title: "De basis",
+    href: "basics",
+    items: [
+      { title: "Hoe ga je indienst", href: "/introduction" },
+    ],
+  },
+  {
     title: "Rankups Uitgelegd",
     href: "rankups",
     items: [
