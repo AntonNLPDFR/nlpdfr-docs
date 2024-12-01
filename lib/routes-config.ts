@@ -15,7 +15,7 @@ export const ROUTES = [
     title: "De basis",
     href: "basics",
     items: [
-      { title: "Hoe ga je indienst", href: "/indienst" },
+      { title: "Hoe ga je in dienst", href: "/indienst" },
       { title: "Hoe krijg je een voertuig", href: "/auto" },
       { title: "Hoe krijg je dienstwapens", href: "/wapens" },
     ],
